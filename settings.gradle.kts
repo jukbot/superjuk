@@ -15,5 +15,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "SuperJuk"
-include(":SuperJuk")
+include(":app")
 include(":shared")
